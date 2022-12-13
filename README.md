@@ -23,7 +23,7 @@
 <p>O primeiro passo para rodar o programa é baixar os arquivos necessários, para isso, vá no seu terminal e digite:</p>
 
 <code>
-<span style="color: tomato">»</span> git clone https://github.com/ArmandoVinicius/TR10_539368
+<span style="color: tomato">»</span> git clone https://github.com/ArmandoVinicius/TR11_539368
 </code>
 <br>
 
